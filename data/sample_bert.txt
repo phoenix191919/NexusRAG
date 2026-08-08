@@ -1,0 +1,4 @@
+BERT is a Transformer-based language model developed by Google researchers.
+It uses bidirectional self-attention. Transformers use self-attention mechanisms
+introduced in the paper Attention Is All You Need. BERT is an encoder-only model,
+while GPT is a decoder-only Transformer model.
