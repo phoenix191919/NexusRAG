@@ -12,6 +12,14 @@
 
 > Portfolio / resume project — designed to show end-to-end RAG engineering beyond “chunk → embed → chat.”
 
+## Demo
+
+Interactive knowledge map with ingest, hybrid Q&A, and click-to-inspect concept pages (page-level provenance).
+
+![NexusRAG knowledge graph UI](docs/assets/knowledge-graph.png)
+
+![Entity panel with multi-document provenance](docs/assets/entity-panel.png)
+
 ---
 
 ## Resume highlights
